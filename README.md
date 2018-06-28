@@ -1,2 +1,2 @@
-# bdubz14.github.io
-My Blog
+#My Blog
+https://bdubz14.github.io/
