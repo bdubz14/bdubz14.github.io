@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My name is Brian Won</title>
+    <title>My name is Brian</title>
     <link>https://bdubz14.github.io/</link>
-    <description>Recent content on My name is Brian Won</description>
+    <description>Recent content on My name is Brian</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <lastBuildDate>Fri, 29 Jun 2018 22:08:05 +0100</lastBuildDate>
     
 	<atom:link href="https://bdubz14.github.io/index.xml" rel="self" type="application/rss+xml" />
